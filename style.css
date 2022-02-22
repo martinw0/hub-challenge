@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    grid-template: 1fr 3fr 1fr / 1fr 3fr 1fr;
+    background-color: hsl(0, 0%, 95%);
+}
+.card {
+
+}
+.orange {
+    background-color: hsl(31, 77%, 52%);
+}
+.dark-cyan {
+    background-color: hsl(184, 100%, 22%);
+}
+.very-dark-cyan {
+    background-color: hsl(179, 100%, 13%);
+}
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+h2 {
+    color: hsl(0, 0%, 95%);
+}
+.btn {
+    background-color: hsl(0, 0%, 95%);
+}
