@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/martinw0/hub-challenge)
+- Live Site URL: [GitμHub Pages](https://martinw0.github.io/hub-challenge/)
 
 ## My process
 
