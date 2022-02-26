@@ -51,7 +51,9 @@ CSS Grid
 ### Continued development
 
 Positions of the different components.
-Responsive design
+Responsive design.  
+var in css.  
+Flex box.  
 
 ### Useful resources
 
